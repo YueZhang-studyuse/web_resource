@@ -1,0 +1,46 @@
+.row {
+    width: 100%;
+}
+.Container{
+    width:100%;
+    text-align: center;
+}
+.GridRow {
+    width: 100%;
+    max-width: 1350px;
+    text-align: left;
+    margin: auto;
+}
+.text-center {
+    text-align: center;
+}
+.left-column {
+    vertical-align: top;
+    display: inline-block;
+    text-align: left;
+    margin: 10px;
+    max-width: 1000px;
+ }
+ .right-column {
+    vertical-align: top;
+    max-width: 300px;
+    display: inline-block;
+    text-align: left;
+    margin: 10px;
+ }
+.block {
+    vertical-align: top;
+    width: 180px;
+    display: inline-block;
+    text-align: left;
+    margin: 4px;
+}
+.image{
+    margin-left: 25px;
+}
+.description-block{
+    text-align:left;
+}
+td {
+    border-bottom:  1px solid black;
+}
